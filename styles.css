@@ -1,0 +1,42 @@
+h1 {
+    color:blue;
+    font-weight: 100;
+}
+
+h2 {
+    color:red;
+}
+
+a {
+    color: black;
+    font-weight: 100;
+}
+
+a:hover {
+    color: greenyellow;
+    font-weight: 900;
+}
+
+.thisclass {
+    font-size: x-large;
+    color: purple;
+}
+
+.funfact {
+    width: 1%;
+    background-color: aqua;
+}
+
+#fact1 {
+    color: coral;
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+#special {
+    font-style: oblique;
+}
+
+#specialDos {
+    font-style: italic;
+}
